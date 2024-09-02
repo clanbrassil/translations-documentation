@@ -1,4 +1,4 @@
-# translations-documentation
+# Translations Documentation
 Guide for Trax static translations 
 
 # Translations
