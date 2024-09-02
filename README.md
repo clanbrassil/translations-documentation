@@ -1,17 +1,5 @@
 # Trax Translations Documentation
 
-## Description 
-Guide for Trax static translations.
-
-Below are the current static English labels and texts in the Trax application. 
-
-Some where decided by Alexis or Adam, while others are placeholders for development purposes only. This document is still a work in progress as some remaining messages, such as popup titles or messages still need to be put in place. So I will probably be adding to this list periodically.  
-
-The lists below contain probably 90% of the English in Trax version 1, a lot of which are already in place from the previous translations compliled by Clememnce. 
-You can cross reference the lists here with Clemence's document and the live Trax app to see what is already done. I believe Adam is going to set up a specific Trax account for Clemence to follow along.
-
-I think that's is a good starting point.
-
 ## Guide for Trax Static Translations
 
 This document provides a comprehensive list of static English labels and texts used in the Trax application. It serves as a reference for translators and developers working on localization efforts.
@@ -22,9 +10,9 @@ This document provides a comprehensive list of static English labels and texts u
 - Many translations have already been implemented based on Clemence's previous work.
 - This document is a work in progress and will be updated periodically.
 
-### Content Origin
+### Content 
 
-The static text in Trax comes from various sources:
+The current static text in Trax comes from various sources:
 - Decisions made by Alexis or Adam
 - Placeholder text for development purposes
 - Existing translations compiled by Clemence
@@ -32,16 +20,16 @@ The static text in Trax comes from various sources:
 ### Remaining Work
 
 - Some messages, such as popup titles and notifications, still need to be added to this list.
-- Additional content may be included as development progresses.
+- Additional content will be added as development progresses.
 
 ### Reference Materials
 
 To track the progress of translations and compare with existing work:
-1. Cross-reference this list with Clemence's document
-2. Compare against the live Trax application
-3. Use the dedicated Trax account that Adam will set up for Clemence
+1. Cross-reference this list with Clemence's document to check off what has been completed
+2. Compare against the live Trax application to ensure consistency with the documentation
+3. I beleive Adam will set up a Trax account for Clemence to use as a reference
 
-This guide serves as a solid foundation for managing and implementing static translations in the Trax application. It will be regularly updated to ensure accuracy and completeness.
+I think that's is a good starting point!
 
 ## Translations
 
