@@ -26,6 +26,7 @@ I think that's is a good starting point.
 ### Forgot Password Form
 - Enter your ACA email address to receive a password reset link.
 - Your ACA email
+- Return to login
 
 ### Navigation
 - Classes
@@ -136,3 +137,4 @@ I think that's is a good starting point.
 ## Loaders/Progress
 - Fetching classes … please wait
 - Fetching class … please wait
+- Processing request..please wait
