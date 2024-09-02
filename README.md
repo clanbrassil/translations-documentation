@@ -160,3 +160,6 @@ I think that's is a good starting point!
 - Fetching classes … please wait
 - Fetching class … please wait
 - Processing request..please wait
+
+## Error Messages
+// TODO
