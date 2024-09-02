@@ -12,6 +12,37 @@ You can cross reference the lists here with Clemence's document and the live Tra
 
 I think that's is a good starting point.
 
+## Guide for Trax Static Translations
+
+This document provides a comprehensive list of static English labels and texts used in the Trax application. It serves as a reference for translators and developers working on localization efforts.
+
+### Current Status
+
+- The list contains approximately 90% of the English content in Trax version 1.
+- Many translations have already been implemented based on Clemence's previous work.
+- This document is a work in progress and will be updated periodically.
+
+### Content Origin
+
+The static text in Trax comes from various sources:
+- Decisions made by Alexis or Adam
+- Placeholder text for development purposes
+- Existing translations compiled by Clemence
+
+### Remaining Work
+
+- Some messages, such as popup titles and notifications, still need to be added to this list.
+- Additional content may be included as development progresses.
+
+### Reference Materials
+
+To track the progress of translations and compare with existing work:
+1. Cross-reference this list with Clemence's document
+2. Compare against the live Trax application
+3. Use the dedicated Trax account that Adam will set up for Clemence
+
+This guide serves as a solid foundation for managing and implementing static translations in the Trax application. It will be regularly updated to ensure accuracy and completeness.
+
 ## Translations
 
 ### English
