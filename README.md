@@ -37,9 +37,7 @@ Guide for Trax static translations
 ### Tabs
 - Today
 - Attendance Due
-- No static labels
-
-#### Editable Attendance
+- Editable Attendance
 - Classes with attendance that can be modified will appear in this list. These classes can be modified once only for 12 hours after they have been submitted.
 
 ## Class Detail Page
