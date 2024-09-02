@@ -67,7 +67,7 @@ I think that's is a good starting point!
 - Today
 - Attendance Due
 - Editable Attendance
-  #### Classes with attendance that can be modified will appear in this list. These classes can be modified once only for 12 hours after they have been submitted.
+  - Classes with attendance that can be modified will appear in this list. These classes can be modified once only for 12 hours after they have been submitted.
 
 ## Class Detail Page
 
