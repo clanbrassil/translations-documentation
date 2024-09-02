@@ -13,7 +13,7 @@ This document provides a list of static English labels and texts used in the Tra
 ### Content 
 
 The current static text in Trax comes from various sources:
-- Translations chosen by Alexis or Adam 
+- Translations suggested by Alexis or Adam 
 - Placeholder text for development purposes
 - Existing translations compiled by Clemence
 
