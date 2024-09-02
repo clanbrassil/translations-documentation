@@ -27,7 +27,7 @@ The current static text in Trax comes from various sources:
 To track the progress of translations and compare with existing work:
 1. Cross-reference this list with Clemence's document to check off what has been completed
 2. Compare against the live Trax application to ensure consistency with the documentation
-3. I beleive Adam will set up a Trax account for Clemence to use as a reference
+3. Adam will set up a Trax account for Clemence to use as a reference
 
 I think that's is a good starting point!
 
