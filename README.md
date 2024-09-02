@@ -9,9 +9,9 @@ Some where decided by Alexis or Adam, while others are placeholders for developm
 
 The lists below contain probably 90% of what Trax version 1 will include, at least for the first beta tests.
 
-# Translations
+## Translations
 
-## English
+### English
 
 ### Login
 - Sign in
