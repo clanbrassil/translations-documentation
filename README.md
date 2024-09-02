@@ -47,7 +47,10 @@ I think that's is a good starting point!
 - Your ACA email
 - Return to login
 
-### Navigation
+### Registration Form
+// TODO
+
+### Navigation (Also used for page header titles)
 - Classes
 - Schedule
 - Payroll
@@ -93,7 +96,7 @@ I think that's is a good starting point!
 
 - Class Duration
 
-### Class Duration Change Form
+### Class Duration Change Form (Accessed from the Attendance report form)
 - Please ensure the hours, minutes, and duration note are completed before confirming a duration change.
 - Please provide an explanation: "We started/ended earlier/later because..."
 
