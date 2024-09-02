@@ -8,7 +8,9 @@ Below are the current static English labels and texts in the Trax application.
 Some where decided by Alexis or Adam, while others are placeholders for development purposes only. This document is still a work in progress as some remaining messages, such as popup titles or messages still need to be put in place. So I will probably be adding to this list periodically.  
 
 The lists below contain probably 90% of the English in Trax version 1, a lot of which are already in place from the previous translations compliled by Clememnce. 
-I think it is a good starting point.
+You can cross reference the lists here with Clemence's document and the live Trax app to see what is already done. I believe Adam is going to set up a specific Trax account for Clemence to follow along.
+
+I think that's is a good starting point.
 
 ## Translations
 
