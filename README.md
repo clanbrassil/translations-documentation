@@ -134,10 +134,12 @@ I think that's is a good starting point!
 ### Titles
 - Attention
 - Success
+- Access denied
 
 ### Text
 - You have selected Absent (Early Notice) for ALL students. To postpone or reschedule please choose menu tab 2.
 - Attendance was submitted successfully. Thank You!
+- The class is not yet started and attendances cannot be submitted at this time. Please contact ACA for assistance.
 
 ## Buttons
 - Go To Class
