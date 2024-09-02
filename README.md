@@ -2,7 +2,7 @@
 
 ## Guide for Trax Static Translations
 
-This document provides a comprehensive list of static English labels and texts used in the Trax application. It serves as a reference for translators and developers working on localization efforts.
+This document provides a list of static English labels and texts used in the Trax application. It serves as a reference for translators and developers working on translation efforts.
 
 ### Current Status
 
