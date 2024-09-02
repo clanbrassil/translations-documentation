@@ -2,6 +2,7 @@
 Guide for Trax static translations 
 
 # Translations
+Below are the current static English labels and texts in the Trax application. Some where decided by Alexis or Adam, while others are placeholder for development purposes. 
 
 ## English
 
