@@ -17,12 +17,6 @@ The current static text in Trax comes from various sources:
 - Placeholder text for development purposes
 - Existing translations compiled by Clemence
 
-### Remaining Work
-
-- Some messages, such as popup titles and notifications, still need to be added to this list.
-- Additional content will be added as development progresses.
-- Some translations for notifications or errors will be translated exclusively in FM 
-
 ### Reference Materials
 
 To track the progress of translations and compare with existing work:
